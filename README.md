@@ -1,2 +1,2 @@
-# xolor-support
-Support for the Xolor app
+# pop-support
+Support for the Pop app
